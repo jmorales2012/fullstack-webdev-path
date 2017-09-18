@@ -20,7 +20,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | DONE | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |  9/18/17  |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
-|   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
+| DONE | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) | [FCC](https://www.freecodecamp.org/jmorales2012) | 2017 |
 |   | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
 |   | Project | Make a todo list webapp |   |    |
 |   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
