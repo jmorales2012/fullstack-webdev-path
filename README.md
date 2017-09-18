@@ -22,25 +22,25 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 | DONE | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) | [FCC](https://www.freecodecamp.org/jmorales2012) | 2017 |
 |   | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
-|   | Project | Make a todo list webapp |   |    |
+| DONE | Project | Make a todo list webapp |   | 8/10/17 |
 |   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
+| DONE | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) | (Github)[https://jmorales2012.github.io/Random-Quote/] |  5/14/17  |
+| DONE | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) | (Github)[https://github.com/jmorales2012/Local-Weather] | 5/3/17 |
+| DONE | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) | (Github)[https://github.com/jmorales2012/Wikipedia-Viewer] | 9/22/16 |
+| DONE | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) | (Github)[https://github.com/jmorales2012/Twitch-Stream] | 9/24/16 |
 |   | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) |
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
-|   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
-|   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
-|   | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) |   |    |
-|   | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) |   |    |
+| DONE | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) | (FCC)[https://www.freecodecamp.org/jmorales2012] | 2017 |
+| DONE | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) | (Github)[https://github.com/jmorales2012/Calculator] | 8/25/17 |
+| DONE | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) | (Github)[https://jmorales2012.github.io/Pomodoro-Clock/] | 8/30/17 |
+| DONE | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) | (Github)[https://jmorales2012.github.io/Tic-Tac-Toe/] | 8/31/17 |
 |   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
 |   | Milestone | FreeCodeCamp Front End Certificate |   |    |
-|   | Course | [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) |   |
-|   | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   |    |
-|   | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   |    |
-|   | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   |    |
-|   | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   |    |
+|  | Course | [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) |   |
+| DONE | Book | [YDKJS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |   | 8/17 |
+| DONE | Book | [YDKJS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |   | 8/17 |
+| DONE | Book | [YDKJS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |   | 8/17 |
+| DONE | Book | [YDKJS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) |   | 8/17 |
 |   | Book | [YDKJS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) |   |   |
 |   | Book | [YDKJS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) |   |    |
 
