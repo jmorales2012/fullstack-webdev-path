@@ -24,16 +24,16 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 |   | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
 | DONE | Project | Make a todo list webapp |   | 8/10/17 |
 |   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
-| DONE | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) | (Github)[https://jmorales2012.github.io/Random-Quote/] |  5/14/17  |
-| DONE | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) | (Github)[https://github.com/jmorales2012/Local-Weather] | 5/3/17 |
-| DONE | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) | (Github)[https://github.com/jmorales2012/Wikipedia-Viewer] | 9/22/16 |
-| DONE | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) | (Github)[https://github.com/jmorales2012/Twitch-Stream] | 9/24/16 |
+| DONE | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) | [Github](https://jmorales2012.github.io/Random-Quote/) |  5/14/17  |
+| DONE | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) | [Github](https://github.com/jmorales2012/Local-Weather) | 5/3/17 |
+| DONE | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) | [Github](https://github.com/jmorales2012/Wikipedia-Viewer) | 9/22/16 |
+| DONE | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) | [Github](https://github.com/jmorales2012/Twitch-Stream) | 9/24/16 |
 |   | Course | Learn ES6 - Wes Bos's [ES6 for Everyone](https://es6.io/) |
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
-| DONE | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) | (FCC)[https://www.freecodecamp.org/jmorales2012] | 2017 |
-| DONE | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) | (Github)[https://github.com/jmorales2012/Calculator] | 8/25/17 |
-| DONE | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) | (Github)[https://jmorales2012.github.io/Pomodoro-Clock/] | 8/30/17 |
-| DONE | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) | (Github)[https://jmorales2012.github.io/Tic-Tac-Toe/] | 8/31/17 |
+| DONE | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) | [FCC](https://www.freecodecamp.org/jmorales2012) | 2017 |
+| DONE | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) | [Github](https://github.com/jmorales2012/Calculator) | 8/25/17 |
+| DONE | Project | FCC Advanced Project - [Build a Pomodoro Clock](https://www.freecodecamp.com/challenges/build-a-pomodoro-clock) | [Github](https://jmorales2012.github.io/Pomodoro-Clock/) | 8/30/17 |
+| DONE | Project | FCC Advanced Project - [Build a Tic Tac Toe game](https://www.freecodecamp.com/challenges/build-a-tic-tac-toe-game) | [Github](https://jmorales2012.github.io/Tic-Tac-Toe/) | 8/31/17 |
 |   | Project | FCC Advanced Project - [Build a Simon Game](https://www.freecodecamp.com/challenges/build-a-simon-game) |   |    |
 |   | Milestone | FreeCodeCamp Front End Certificate |   |    |
 |  | Course | [JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript/) |   |
