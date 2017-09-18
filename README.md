@@ -18,7 +18,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | DONE | Course | Learn flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |  9/18/17  |
 | DONE | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |  9/18/17  |
 |   | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
-|   | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
+| DONE | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |  9/18/17  |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |   | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
