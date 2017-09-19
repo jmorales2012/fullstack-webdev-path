@@ -23,7 +23,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | DONE | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) | [FCC](https://www.freecodecamp.org/jmorales2012) | 2017 |
 |   | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
 | DONE | Project | Make a todo list webapp |   | 8/10/17 |
-|   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
+| DONE | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   | 9/19/17 |
 | DONE | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) | [Github](https://jmorales2012.github.io/Random-Quote/) |  5/14/17  |
 | DONE | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) | [Github](https://github.com/jmorales2012/Local-Weather) | 5/3/17 |
 | DONE | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) | [Github](https://github.com/jmorales2012/Wikipedia-Viewer) | 9/22/16 |
