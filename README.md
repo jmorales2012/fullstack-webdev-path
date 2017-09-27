@@ -49,7 +49,7 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 
 | Progress | Type | Item | Project(s) | Date |
 |:------:|------|------|------------|:-------:|
-|   | Course | Learn React - [React For Beginners - Wes Bos](https://reactforbeginners.com/) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) |   |    |
+| DONE | Course | Learn React - [React For Beginners - Wes Bos](https://reactforbeginners.com/) or [React Fundamentals - Tyler Mcginnis](https://reacttraining.com/online/react-fundamentals) | TYLER'S COURSE | 9/27/17 |
 |   | Course | Learn Redux - [Redux course - Wes Bos](https://learnredux.com/) |   |    |
 |   | Project | FCC React Project - [Build a Markdown Previewer](https://www.freecodecamp.com/challenges/build-a-markdown-previewer) |   |    |
 |   | Project |  FCC React Project - [Build a Recipe Box App](https://www.freecodecamp.com/challenges/build-a-recipe-box) |   |    |
